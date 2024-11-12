@@ -15,7 +15,9 @@ This is a simulation of the Magical Arena game where two players fight based on 
 2. Use the following command to run the tests:
 
  javac -cp .
+ 
 .jar *.java java -cp .
+
 .jar org.junit.runner.JUnitCore GameTest
 
 ## Game Logic
