@@ -1,4 +1,3 @@
-# Swiggy-Assignment
 
 # Magical Arena Game
 
